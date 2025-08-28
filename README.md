@@ -34,7 +34,7 @@ I'm an **AWS Solutions Architect** passionate about serverless architecture and 
 
 ## 📚 Featured Projects
 
-- 🔥 [dev.txn.us175.com](https://github.com/tylerapplebaum/dev.txn.us175.com) - AWS serverless transaction platform
+- 🔥 [cards.txn.us175.com](https://github.com/tylerapplebaum/cards.txn.us175.com) - AWS serverless transaction platform
 - 🎯 [us175-wantlist](https://github.com/tylerapplebaum/us175-wantlist) - Hobby-driven serverless web app
 - 🧩 [MTR Traceroute Utility for PowerShell](https://gist.github.com/tylerapplebaum/dc527a3bd875f11871e2) - Insights and code from my software explorations
 
